@@ -8,7 +8,7 @@ const Footer = () => {
   return (
     <footer>
       <h4>Developed by Shah Dhairya H.</h4>
-      <h4>Copyright &copy; 2023 SDH</h4>
+      <h4>Copyright &copy; 2025 SDH</h4>
       <div className='footerLinks'>
         <a href="https://github.com/shahdhairya12" target='_blank'><FaGithub/></a>
         {/* <a href="https://www.linkedin.com/in/" target='_blank'><FaLinkedin/></a> */}
