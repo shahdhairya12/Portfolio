@@ -9,7 +9,6 @@ A responsive and modern personal portfolio website to showcase my skills, projec
 - ⚙️ Skills with animated progress bars
 - 📁 Projects display section
 - 📬 Contact form with social links
-- 🌙 Light/Dark mode toggle
 
 ## 🛠️ Technologies Used
 
@@ -20,8 +19,6 @@ A responsive and modern personal portfolio website to showcase my skills, projec
 - Google Fonts & Icons
 
 ## 📂 Folder Structure
-
-
 
 ```
 Portfolio/
@@ -34,14 +31,6 @@ Portfolio/
 ```
 
 ---
-
-
-## 📸 Screenshots
-
-> (You can insert screenshots here by uploading images and using the following syntax:)
->
-> ![Homepage](assets/images/screenshot-homepage.png)
-> ![Skills Section](assets/images/screenshot-skills.png)
 
 ## 📥 Download
 
