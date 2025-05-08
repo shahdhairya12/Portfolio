@@ -1,87 +1,55 @@
-# 💼 Dhairya Shah - Developer Portfolio
+# 💼 Personal Portfolio Website
 
-Welcome to my personal portfolio website!  
-🔗 **Live Site**: [https://portfolio-beta-lilac-68.vercel.app](https://portfolio-beta-lilac-68.vercel.app)
+A responsive and modern personal portfolio website to showcase my skills, projects, and contact details. This project is built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap 5**, with smooth user experience and mobile responsiveness.
 
-This website is a showcase of my web development skills, projects, and contact information. Built with clean and responsive design principles, it serves as my digital resume and portfolio.
+## 🚀 Features
 
----
-
-## 🔗 Links
-
-- 🌐 **Live Website**: [portfolio-beta-lilac-68.vercel.app](https://portfolio-beta-lilac-68.vercel.app)
-- 📁 **GitHub Repository**: [https://github.com/shahdhairya12/Portfolio](https://github.com/shahdhairya12/Portfolio)
-- 📫 **Email**: 1shahdhairya@gmail.com
-
----
+- ✅ Clean and responsive design
+- 🧑‍💼 About Me section
+- ⚙️ Skills with animated progress bars
+- 📁 Projects display section
+- 📬 Contact form with social links
+- 🌙 Light/Dark mode toggle
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML5, CSS3, JavaScript
-- **Styling Framework**: Bootstrap 5
-- **Animations**: Scroll Animations, Smooth Scrolling
-- **Hosting Platform**: Vercel
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap 5
+- Google Fonts & Icons
 
----
+## 📂 Folder Structure
 
-## 📁 Folder Structure
+
 
 ```
 Portfolio/
-├── index.html          # Main HTML file
-├── css/
-│   └── style.css       # Custom CSS styles
-├── js/
-│   └── script.js       # JavaScript functions and interactions
 ├── assets/
-│   ├── images/         # All static images and icons
-│   └── fonts/          # Custom fonts (if used)
-└── README.md           # This file
+│ ├── css/
+│ ├── js/
+│ └── images/
+├── index.html
+└── README.md
 ```
 
 ---
 
-## 📸 Website Sections
 
-- **Home**: Welcome text and professional greeting.
-- **About Me**: Overview of who I am and what I do.
-- **Skills**: Technical skills and tools I use.
-- **Projects**: Highlights of my best work and links to code.
-- **Contact**: Ways to reach me including a contact form and social media links.
+## 📸 Screenshots
 
----
+> (You can insert screenshots here by uploading images and using the following syntax:)
+>
+> ![Homepage](assets/images/screenshot-homepage.png)
+> ![Skills Section](assets/images/screenshot-skills.png)
 
-## 🚀 How to Use This Portfolio
+## 📥 Download
 
-1. **Clone the Repository**  
-   ```
-   git clone https://github.com/shahdhairya12/Portfolio.git
-   ```
+Click below to download the project as a ZIP file:
 
-2. **Open in Browser**  
-   Open `index.html` using any modern browser.
+- 🔗 [**Download Portfolio.zip**](https://github.com/shahdhairya12/Portfolio/archive/refs/heads/main.zip)
 
-3. **Customize**  
-   Replace the placeholder text, links, and images with your own to personalize the portfolio.
+> Replace the URL with your actual GitHub repo link after uploading the project.
 
-4. **Deploy**  
-   Host using platforms like [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), or GitHub Pages.
 
----
 
-## 📬 Contact Me
-
-- 📧 **Email**: 1shahdhairya@gmail.com  
-- 📍 **Location**: Anand, Gujarat, India  
-- 🔗 **LinkedIn / GitHub**: Add your social links if you want
-
----
-
-## 📃 License
-
-This project is open-source and available under the [MIT License](LICENSE).  
-Feel free to use, edit, and share!
-
----
-
-> Made with ❤️ by **Dhairya Shah**
