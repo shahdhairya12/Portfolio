@@ -19,19 +19,7 @@ A responsive and modern personal portfolio website to showcase my skills, projec
 - React JS
 - Node js
 - Google Fonts & Icons
-
-## 📂 Folder Structure
-
-```
-Portfolio/
-├── assets/
-│ ├── css/
-│ ├── js/
-│ └── images/
-├── index.html
-└── README.md
-```
-
+  
 ---
 
 ## 📥 Download
