@@ -23,3 +23,65 @@ This website is a showcase of my web development skills, projects, and contact i
 - **Hosting Platform**: Vercel
 
 ---
+
+## 📁 Folder Structure
+
+```
+Portfolio/
+├── index.html          # Main HTML file
+├── css/
+│   └── style.css       # Custom CSS styles
+├── js/
+│   └── script.js       # JavaScript functions and interactions
+├── assets/
+│   ├── images/         # All static images and icons
+│   └── fonts/          # Custom fonts (if used)
+└── README.md           # This file
+```
+
+---
+
+## 📸 Website Sections
+
+- **Home**: Welcome text and professional greeting.
+- **About Me**: Overview of who I am and what I do.
+- **Skills**: Technical skills and tools I use.
+- **Projects**: Highlights of my best work and links to code.
+- **Contact**: Ways to reach me including a contact form and social media links.
+
+---
+
+## 🚀 How to Use This Portfolio
+
+1. **Clone the Repository**  
+   ```
+   git clone https://github.com/shahdhairya12/Portfolio.git
+   ```
+
+2. **Open in Browser**  
+   Open `index.html` using any modern browser.
+
+3. **Customize**  
+   Replace the placeholder text, links, and images with your own to personalize the portfolio.
+
+4. **Deploy**  
+   Host using platforms like [Vercel](https://vercel.com/), [Netlify](https://netlify.com/), or GitHub Pages.
+
+---
+
+## 📬 Contact Me
+
+- 📧 **Email**: 1shahdhairya@gmail.com  
+- 📍 **Location**: Anand, Gujarat, India  
+- 🔗 **LinkedIn / GitHub**: Add your social links if you want
+
+---
+
+## 📃 License
+
+This project is open-source and available under the [MIT License](LICENSE).  
+Feel free to use, edit, and share!
+
+---
+
+> Made with ❤️ by **Dhairya Shah**
