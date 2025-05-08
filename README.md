@@ -40,5 +40,21 @@ Click below to download the project as a ZIP file:
 
 > Replace the URL with your actual GitHub repo link after uploading the project.
 
+---
 
+## 🔗 Useful Links
 
+- [More Projects by Shah Dhairya](https://github.com/shahdhairya12)
+- [More Projects by SDH](https://github.com/shahdhairyah)
+
+---
+
+## 📲 Connect With Me
+
+- 🌐 [GitHub Public](https://github.com/shahdhairya12)
+- 🌐 [GitHub Private](https://github.com/shahdhairyah)
+- 💼 [LinkedIn](https://www.linkedin.com/in/shahdhairyah/)
+- 📸 [Instagram](https://www.instagram.com/shahdhairyah/)
+- 🧠 [LeetCode](https://leetcode.com/sdh12/)
+- 📧 Email: [Contant me](mailto:con.sdh@outlook.in)
+- 📧 Email: [Personal](mailto:shahdhairya@outlook.in)
